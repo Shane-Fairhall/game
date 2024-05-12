@@ -8,4 +8,8 @@
 public class deck
 {
     //this is the deck
+    
+    //TODO:
+    // make the array
+    // deal a card
 }
